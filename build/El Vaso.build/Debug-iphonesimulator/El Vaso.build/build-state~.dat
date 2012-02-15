@@ -1,0 +1,487 @@
+TEl Vaso
+v7
+r0
+t350839347.780979
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/Info.plist" El_Vaso-Info.plist
+cCompileXIB "/Users/Baltierra/Programas/Xcode3.2/El Vaso/MainWindow.xib"
+cCompileXIB "/Users/Baltierra/Programas/Xcode3.2/El Vaso/RootViewController.xib"
+cCompileXIB "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.xib"
+cCpResource "build/Debug-iphonesimulator/El Vaso.app/arss_back.png" arss_back.png
+cCpResource "build/Debug-iphonesimulator/El Vaso.app/arss_header.png" arss_header.png
+cProcessPCH /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch.gch El_Vaso_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/main.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/El_VasoAppDelegate.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/El_VasoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RootViewController.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/DetailsViewController.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/GDataXMLNode.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/GDataXMLNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RSSLoader.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RSSLoader.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/TableHeaderView.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/TableHeaderView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso" normal i386
+cGenerateDSYMFile "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app.dSYM" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso"
+cTouch "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app"
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/parser.h
+c000000004CC10DA500000000000098A9
+t1287720357
+s39081
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/tree.h
+c000000004CC10DA50000000000008F14
+t1287720357
+s36628
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xmlstring.h
+c000000004CC10DA5000000000000155A
+t1287720357
+s5466
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004CC10DA50000000000003F47
+t1287720357
+s16199
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004CC10DA50000000000004BF8
+t1287720357
+s19448
+
+N/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libxml2.dylib
+c000000004CC10DA50000000000122A50
+t1287720357
+s1190480
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.h
+c000000004C06D2880000000000000194
+t1275515528
+s404
+i<UIKit/UIKit.h>
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.m
+c000000004C14C3330000000000000470
+t1276429107
+s1136
+i"DetailsViewController.h"
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.xib
+c000000004C06D2DF0000000000004A8E
+t1275515615
+s19086
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/El_VasoAppDelegate.h
+c000000004F39212C00000000000001CB
+t1329144108
+s459
+i<UIKit/UIKit.h>
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/El_VasoAppDelegate.m
+c000000004F39212C0000000000000A9F
+t1329144108
+s2719
+i"El_VasoAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RSSLoader.h
+c000000004D10A2B600000000000002A9
+t1292935862
+s681
+i<Foundation/Foundation.h>
+i"GDataXMLNode.h"
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RSSLoader.m
+c000000004C113E26000000000000092A
+t1276198438
+s2346
+i"RSSLoader.h"
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RootViewController.h
+c000000004F392AAC0000000000000175
+t1329146540
+s373
+i<UIKit/UIKit.h>
+i"RSSLoader.h"
+i"DetailsViewController.h"
+i"TableHeaderView.h"
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RootViewController.m
+c000000004F392AAC00000000000015D9
+t1329146540
+s5593
+i"RootViewController.h"
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/TableHeaderView.h
+c000000004C06BB230000000000000132
+t1275509539
+s306
+i<UIKit/UIKit.h>
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/TableHeaderView.m
+c000000004C06BC00000000000000043B
+t1275509760
+s1083
+i"TableHeaderView.h"
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/El_Vaso_Prefix.pch
+c000000004F39212C0000000000000140
+t1329144108
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/GDataXMLNode.h
+c000000004A8964100000000000001BD1
+t1250518032
+s7121
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/xmlstring.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i"GDataDefines.h"
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/GDataXMLNode.m
+c000000004B3A35AA000000000000C8CC
+t1262106026
+s51404
+i"GDataXMLNode.h"
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/MainWindow.xib
+c000000004F39212C0000000000005FF4
+t1329144108
+s24564
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/RootViewController.xib
+c000000004F39264B0000000000005225
+t1329145419
+s21029
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/arss_back.png
+c000000004C06B0C80000000000003480
+t1275506888
+s13440
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/arss_header.png
+c000000004C06B57D00000000000021DC
+t1275508093
+s8668
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app
+t1329146547
+s340
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app.dSYM
+t1329146547
+s102
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/DetailsViewController.nib
+t1329146543
+s1146
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso
+t1329146547
+s82452
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/Info.plist
+t1329146541
+s591
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/MainWindow.nib
+t1329146542
+s1509
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/PkgInfo
+t1329146541
+s8
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/RootViewController.nib
+t1329146542
+s986
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/arss_back.png
+t1329146542
+s13440
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/arss_header.png
+t1329146542
+s8668
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/DetailsViewController.o
+t1329146546
+s45528
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/El Vaso.LinkFileList
+c000000004F392AAD00000000000003BE
+t1329146541
+s958
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/El_VasoAppDelegate.o
+t1329146546
+s52620
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/GDataXMLNode.o
+t1329146546
+s94612
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RSSLoader.o
+t1329146546
+s50380
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RootViewController.o
+t1329146546
+s57616
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/TableHeaderView.o
+t1329146546
+s41684
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/main.o
+t1329146545
+s6316
+
+N/Users/Baltierra/Programas/Xcode3.2/El Vaso/main.m
+c000000004F39212C0000000000000161
+t1329144108
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-dlaltcnxntcrqecvjshciicsyxja/El_Vaso_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch.gch
+t1329146545
+s15449296
+
+NEl_Vaso-Info.plist
+c000000004F39212C000000000000038D
+t1329144108
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350839341#350839341#0(0"0(0#1#0"17217025280#0"0#
+
+CCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/DetailsViewController.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350839346.063359
+e350839346.169240
+r1
+xCompileC
+xbuild/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/DetailsViewController.o
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.m350839346#350839346#0(0"0(0#0#75"/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.m4521983632#2140"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-generated-files.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-own-target-headers.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-all-target-headers.hmap" -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-project-headers.hmap" "-F/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/include" -I/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources/i386" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources" -include /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch -c "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.m" -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/DetailsViewController.o"0#
+
+CCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/El_VasoAppDelegate.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/El_VasoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350839345.557862
+e350839346.063242
+r1
+xCompileC
+xbuild/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/El_VasoAppDelegate.o
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/El_VasoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/El_VasoAppDelegate.m350839345#350839346#0(0"0(0#0#72"/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/El_VasoAppDelegate.m4521983632#2134"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-generated-files.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-own-target-headers.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-all-target-headers.hmap" -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-project-headers.hmap" "-F/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/include" -I/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources/i386" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources" -include /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch -c "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/El_VasoAppDelegate.m" -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/El_VasoAppDelegate.o"0#
+
+CCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/GDataXMLNode.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/GDataXMLNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350839346.098239
+e350839346.459125
+r1
+xCompileC
+xbuild/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/GDataXMLNode.o
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/GDataXMLNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Baltierra/Programas/Xcode3.2/El Vaso/GDataXMLNode.m350839346#350839346#0(0"0(0#0#58"/Users/Baltierra/Programas/Xcode3.2/El Vaso/GDataXMLNode.m4521983632#2114"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-generated-files.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-own-target-headers.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-all-target-headers.hmap" -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-project-headers.hmap" "-F/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/include" -I/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources/i386" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources" -include /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch -c "/Users/Baltierra/Programas/Xcode3.2/El Vaso/GDataXMLNode.m" -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/GDataXMLNode.o"0#
+
+CCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RSSLoader.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RSSLoader.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350839346.169354
+e350839346.332405
+r1
+xCompileC
+xbuild/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RSSLoader.o
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RSSLoader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RSSLoader.m350839346#350839346#0(0"0(0#0#63"/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RSSLoader.m4521983632#2116"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-generated-files.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-own-target-headers.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-all-target-headers.hmap" -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-project-headers.hmap" "-F/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/include" -I/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources/i386" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources" -include /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch -c "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RSSLoader.m" -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RSSLoader.o"0#
+
+CCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RootViewController.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350839345.917259
+e350839346.098112
+r1
+xCompileC
+xbuild/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RootViewController.o
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RootViewController.m350839345#350839346#0(0"0(0#0#72"/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RootViewController.m4521983632#2134"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-generated-files.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-own-target-headers.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-all-target-headers.hmap" -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-project-headers.hmap" "-F/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/include" -I/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources/i386" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources" -include /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch -c "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/RootViewController.m" -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/TableHeaderView.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/TableHeaderView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350839346.332540
+e350839346.439153
+r1
+xCompileC
+xbuild/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/TableHeaderView.o
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/TableHeaderView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/TableHeaderView.m350839346#350839346#0(0"0(0#0#69"/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/TableHeaderView.m4521983632#2128"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-generated-files.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-own-target-headers.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-all-target-headers.hmap" -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-project-headers.hmap" "-F/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/include" -I/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources/i386" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources" -include /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch -c "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/TableHeaderView.m" -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/TableHeaderView.o"0#
+
+CCompileC "build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/main.o" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350839345.556026
+e350839345.917109
+r1
+xCompileC
+xbuild/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/main.o
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Baltierra/Programas/Xcode3.2/El Vaso/main.m350839345#350839345#0(0"0(0#0#50"/Users/Baltierra/Programas/Xcode3.2/El Vaso/main.m4521983632#2098"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-generated-files.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-own-target-headers.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-all-target-headers.hmap" -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-project-headers.hmap" "-F/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/include" -I/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources/i386" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources" -include /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch -c "/Users/Baltierra/Programas/Xcode3.2/El Vaso/main.m" -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.xib"
+s350839342.059501
+e350839343.159988
+r1
+xCompileXIB
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@44"CompileXIB Classes/DetailsViewController.xib350839342#350839343#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#77"/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.xib4521983632#625"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/DetailsViewController.nib" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/Classes/DetailsViewController.xib" --sdk /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Baltierra/Programas/Xcode3.2/El Vaso/MainWindow.xib"
+s350839341.153235
+e350839342.059398
+r1
+xCompileXIB
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib350839341#350839342#0(0"0(0#0#58"/Users/Baltierra/Programas/Xcode3.2/El Vaso/MainWindow.xib17217401600#595"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/MainWindow.nib" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/MainWindow.xib" --sdk /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Baltierra/Programas/Xcode3.2/El Vaso/RootViewController.xib"
+s350839341.190231
+e350839342.285685
+r1
+xCompileXIB
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib350839341#350839342#0(0"0(0#0#66"/Users/Baltierra/Programas/Xcode3.2/El Vaso/RootViewController.xib4521983632#611"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/RootViewController.nib" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/RootViewController.xib" --sdk /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/El Vaso.app/arss_back.png" arss_back.png
+s350839342.285797
+e350839342.453810
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/El Vaso.app/arss_back.png
+xarss_back.png
+lSLF07#2@18"Copy arss_back.png350839342#350839342#0(0"0(0#0#57"/Users/Baltierra/Programas/Xcode3.2/El Vaso/arss_back.png4521983632#495"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Baltierra/Programas/Xcode3.2/El Vaso/arss_back.png" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app"0#
+
+CCpResource "build/Debug-iphonesimulator/El Vaso.app/arss_header.png" arss_header.png
+s350839342.287197
+e350839342.455001
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/El Vaso.app/arss_header.png
+xarss_header.png
+lSLF07#2@20"Copy arss_header.png350839342#350839342#0(0"0(0#0#59"/Users/Baltierra/Programas/Xcode3.2/El Vaso/arss_header.png4521983632#497"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Baltierra/Programas/Xcode3.2/El Vaso/arss_header.png" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app"0#
+
+CGenerateDSYMFile "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app.dSYM" "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso"
+s350839347.533239
+e350839347.720384
+r1
+xGenerateDSYMFile
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app.dSYM
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso
+lSLF07#2@113"GenerateDSYMFile "build/Debug-iphonesimulator/El Vaso.app.dSYM" "build/Debug-iphonesimulator/El Vaso.app/El Vaso"350839347#350839347#0(0"0(0#0#91"/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso4521983632#407"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/usr/bin/dsymutil "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso" -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app.dSYM"0#
+
+CLd "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso" normal i386
+s350839346.459233
+e350839347.533044
+r1
+xLd
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso
+xnormal
+xi386
+lSLF07#2@96"Link /Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso350839346#350839347#0(0"0(0#0#0"4521983632#953"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" "-F/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" -filelist "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/Objects-normal/i386/El Vaso.LinkFileList" -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/El Vaso"0#
+
+CProcessInfoPlistFile "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/Info.plist" El_Vaso-Info.plist
+s350839341.098705
+e350839341.153124
+r1
+xProcessInfoPlistFile
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/Info.plist
+xEl_Vaso-Info.plist
+lSLF07#2@26"Process El_Vaso-Info.plist350839341#350839341#0(0"0(0#0#62"/Users/Baltierra/Programas/Xcode3.2/El Vaso/El_Vaso-Info.plist17210974464#502"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility El_Vaso-Info.plist -genpkginfo "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app/Info.plist"0#
+
+CProcessPCH /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-dlaltcnxntcrqecvjshciicsyxja/El_Vaso_Prefix.pch.gch El_Vaso_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch.gch El_Vaso_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350839343.160209
+e350839345.555786
+r1
+xProcessPCH
+x/var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch.gch
+xEl_Vaso_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile El_Vaso_Prefix.pch350839343#350839345#0(0"0(0#0#62"/Users/Baltierra/Programas/Xcode3.2/El Vaso/El_Vaso_Prefix.pch4521983632#1983"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-generated-files.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-own-target-headers.hmap" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-all-target-headers.hmap" -iquote "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/El Vaso-project-headers.hmap" "-F/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/include" -I/Developer2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources/i386" "-I/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/El Vaso.build/Debug-iphonesimulator/El Vaso.build/DerivedSources" -c "/Users/Baltierra/Programas/Xcode3.2/El Vaso/El_Vaso_Prefix.pch" -o /var/folders/zq/2jvfvn2n76jd4w4fv6x6r0m00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/El_Vaso_Prefix-fjlfkycrgkuahnctqtuthigacgrv/El_Vaso_Prefix.pch.gch0#
+
+CTouch "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app"
+s350839347.727991
+e350839347.780891
+r1
+xTouch
+x/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app
+lSLF07#2@89"Touch /Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app350839347#350839347#0(0"0(0#0#0"4521983632#294"    cd "/Users/Baltierra/Programas/Xcode3.2/El Vaso"    setenv PATH "/Developer2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Baltierra/Programas/Xcode3.2/El Vaso/build/Debug-iphonesimulator/El Vaso.app"0#
+
