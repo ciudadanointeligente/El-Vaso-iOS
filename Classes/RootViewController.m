@@ -142,7 +142,7 @@
 	
 	// Preview del artículo
 	cell.textLabel.font = [UIFont systemFontOfSize:11];
-	cell.textLabel.numberOfLines = 3;
+	cell.textLabel.numberOfLines = 4;
 	cell.textLabel.textColor = [UIColor colorWithRed:0 green:0 blue:0 alpha:0.7];
 	cell.backgroundColor = [UIColor clearColor];
 	cell.textLabel.backgroundColor = [UIColor clearColor];
